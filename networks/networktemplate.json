@@ -1,13 +1,61 @@
 {
-    "network": "",
+    "network": "NTRN",
     "knownAddresses": [
         {
-            "address": "",
-            "alias": ""
+            "address": "neutron13we0myxwzlpx8l5ark8elw5gj5d59dl6cjkzmt80c5q5cv5rt54qvzkv2a",
+            "alias": "Neutron TGE Reserve"
         },
         {
-            "address": "",
-            "alias": ""
+            "address": "neutron14q5elxj4ghktt7d7d0uw0cs0gqyeay25h5fkree897gjm38gevxqmvqsq5",
+            "alias": "Neutron Investor Vesting"
+        },
+        {
+            "address": "neutron1a5xz4zm0gkpcf92ddm7fw8pghg2mf4wm6cyu6cgcruq35upf7auslnnfye",
+            "alias": "Neutron LTI Vesting"
+        },
+        {
+            "address": "neutron1kq2rzz6fq2q7fsu75a9g7cpzjeanmk68v6vapn",
+            "alias": "IBC Account"
+        },
+        {
+            "address": "neutron1suhgf5svhu4usrurvxzlgn54ksxmn8gljarjtxqnapv8kjnp4nrstdxvff",
+            "alias": "Neutron DAO Governance"
+        },
+        {
+            "address": "neutron13zwlfzwqtegmuguczf3mvefupyfcvhp0df2u0wrk5ek0tr5zer4suj0g0u",
+            "alias": "Neutron Foundation Holdings"
+        },
+        {
+            "address": "neutron1j93vk65rw6kwa252kue8wge60zfgews352uxdskxqjn53fmgp0hsf95luq",
+            "alias": "Liquidity 2"
+        },
+        {
+            "address": "neutron1y2vwvwfz4qm8yzlvj4xehwlgqu3haurvnwd967",
+            "alias": "Duality Merger"
+        },
+        {
+            "address": "neutron1zjdv3u6svlazlydmje2qcp44yqkt0059chz8gmyl5yrklmgv6fzq9chelu",
+            "alias": "Neutron Grants SubDao 1"
+        },
+        {
+            "address": "neutron1qeyjez6a9dwlghf9d6cy44fxmsajztw257586akk6xn6k88x0gus5djz4e",
+            "alias": "Neutron Voting Vault"
+        },
+        {
+            "address": "neutron17fcdl6crgsp49ja270fp0pdwm354ar5qqv3mda07py58lgqmm2sqasvgz9",
+            "alias": "Neutron Investor Vesting"
+        },
+        {
+            "address": "neutron1cvsh2c2vasktkh7krt2w2dhyt0njs0adh5ewqv",
+            "alias": "Neutron LTI Multisig"
+        },
+        {
+            "address": "neutron1e22zh5p8meddxjclevuhjmfj69jxfsa8uu3jvht72rv9d8lkhves6t8veq",
+            "alias": "Astroport Pool"
+        },
+        {
+            "address": "neutron1x3jxzj758pwlzpw0yc5443da2nwm5l5z724uf22jzfrufvs9jaysxmzkwp",
+            "alias": "Mars Hub Deal N-25"
         }
     ],
     "ibc": [
